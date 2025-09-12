@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\HindrekoBB.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\introVstour\\HindrekoBB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\HindrekoBB.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\introVstour\\HindrekoBB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\HindrekoBB.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\introVstour\\HindrekoBB.csproj",
         "projectName": "HindrekoBB",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\HindrekoBB.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\introVstour\\HindrekoBB.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\HindrekoBB\\HindrekoBB\\introVstour\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

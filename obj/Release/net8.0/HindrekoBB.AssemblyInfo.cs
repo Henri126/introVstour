@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("HindrekoBB")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41374ac5cb4010306bc7906ee0aeb802a0da8e02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d02b68869fc3e555fa1d6f1c8cf123cfe2bed9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HindrekoBB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HindrekoBB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
